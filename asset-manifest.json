@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/types/static/css/main.b8494698.css",
+    "main.js": "/types/static/js/main.ba555056.js",
+    "static/js/787.462c793e.chunk.js": "/types/static/js/787.462c793e.chunk.js",
+    "static/media/trend_main.jpg": "/types/static/media/trend_main.d489e21278853b015955.jpg",
+    "static/media/slick.svg": "/types/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/types/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/shopping-bag.svg": "/types/static/media/shopping-bag.7c602c178bb4e1e63658bea35a94b567.svg",
+    "static/media/slick.ttf": "/types/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/types/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/types/index.html",
+    "main.b8494698.css.map": "/types/static/css/main.b8494698.css.map",
+    "main.ba555056.js.map": "/types/static/js/main.ba555056.js.map",
+    "787.462c793e.chunk.js.map": "/types/static/js/787.462c793e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8494698.css",
+    "static/js/main.ba555056.js"
+  ]
+}
